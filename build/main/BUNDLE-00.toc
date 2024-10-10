@@ -1,0 +1,3 @@
+([('main',
+   '/Users/antoine/PycharmProjects/SheetToExcel/dist/main',
+   'EXECUTABLE')],)
